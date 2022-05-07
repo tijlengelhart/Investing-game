@@ -21,7 +21,7 @@ Welcome to investing game!
 	https://github.com/tijlengelhart
 
 	code in github:
-
+	https://github.com/tijlengelhart/investing-game
 
 found a bug?
 mail to:
