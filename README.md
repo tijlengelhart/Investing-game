@@ -23,9 +23,9 @@ Welcome to investing game!
 	code in github:
 
 
-	found a bug?
-	mail to:
-	tijlengelhartgithub@gmail.com
+found a bug?
+mail to:
+tijlengelhartgithub@gmail.com
 
 
 
